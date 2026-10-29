@@ -31,6 +31,7 @@ Example: When a pedestrian crosses the road, the self-driving car detects the pe
 - Efficient transportation and logistics.
 
 #PICTURE
-  
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/68d5560c-6543-48a6-82f1-cb6cf3bf2019" />
+
 # RESULT
 The application of Artificial Intelligence in self-driving cars was studied successfully. The roles of computer vision, machine learning, sensor fusion, and path planning in detecting surroundings, making driving decisions, and navigating roads were understood. AI can improve transportation efficiency and safety, but autonomous vehicles still face challenges such as unpredictable road conditions, sensor limitations, and complex traffic situations. Human supervision and appropriate safety measures remain important, depending on the vehicle's automation level.
